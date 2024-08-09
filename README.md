@@ -21,4 +21,4 @@ Este exemplo demonstra como aplicar uma máscara de formato decimal em um campo 
    git clone <URL_DO_REPOSITÓRIO>
 
 
-[Link do projeto em funcionmento.](https://github.com/tilico74/mascara_decimal)
+[Link do projeto em funcionmento.](https://tilico74.github.io/mascara_decimal/)
