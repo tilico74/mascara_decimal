@@ -1,0 +1,2 @@
+input { text-align: right; }
+        input::placeholder {text-align: right;}
